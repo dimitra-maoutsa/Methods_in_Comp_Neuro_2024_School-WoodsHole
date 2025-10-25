@@ -3,7 +3,7 @@ All Rights Reserved — View Only
 Copyright © 2025 Dimitra Maoutsa
 
 **Permission is granted to access and view the following materials directly on GitHub:**
-  - **MCN presentation1-watermark-compressed-somepages.pdf**
+  - **MCN presentation1-watermark-compressed-somepages_print.pdf**
 
 **No other rights are granted. You may NOT:**
   - **download, copy, print, redistribute, mirror, or publish the materials;**
